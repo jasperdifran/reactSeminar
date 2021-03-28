@@ -6,5 +6,5 @@ __Creating Next.js App__
   3. Type 'npm run dev' into terminal
   
 __To run this code__
-  Put index.js and otherPage.js into /pages
-  Put test.js and TextField.js into /components
+  1. Put index.js and otherPage.js into /pages
+  2. Put test.js and TextField.js into /components
